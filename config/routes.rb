@@ -6,4 +6,8 @@ Rails.application.routes.draw do
 
  get '/treca' => 'pages#treca'
 
+ get '/cetvrta' => 'pages#cetvrta'
+
+ get '/peta' => 'pages#peta'
+
 end
